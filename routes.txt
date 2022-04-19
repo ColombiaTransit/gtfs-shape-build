@@ -1,7 +1,0 @@
-﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-0,,,Terminal Salitre  Bogota (D.C) - Terminal de Bucaramanga  Bucaramanga (San),,3,,,,,,
-1,,,Terminal Salitre  Bogota (D.C) - Terminal de Honda  Honda (Tol),,3,,,,,,
-2,,,Terminal de Bucaramanga  Bucaramanga (San) - Terminal Salitre  Bogota (D.C),,3,,,,,,
-3,,,Terminal Satelite Norte  Bogota (D.C) - Terminal de Bucaramanga  Bucaramanga (San),,3,,,,,,
-4,,,Terminal de San Gil  San Gil (San) - Terminal Salitre  Bogota (D.C),,3,,,,,,
-5,,,Terminal de Honda  Honda (Tol) - Terminal Salitre  Bogota (D.C),,3,,,,,,
