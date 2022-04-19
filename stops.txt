@@ -1,6 +1,0 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_timezone,stop_url,zone_id,location_type,parent_station,wheelchair_boarding
-TDT-BOG-SAL,,Bogota,Terminal de Salitre,4.6531459,-74.1154237,America/Bogota,https://www.terminaldetransporte.gov.co/terminales/terminal-salitre,,,,0
-TDT-BOG-NTH,,Bogota,Terminal del Norte,4.7706348,-74.0430029,America/Bogota,https://www.terminaldetransporte.gov.co/terminales/terminal-del-norte,,,,0
-TDT-BUC,,Bucaramanga,Terminal de Transporte,7.088310,-73.129440,America/Bogota,https://terminalbucaramanga.com/,,,,0
-TDT-HON,,Honda,Terminal de Transporte,5.2136213,-74.7377979,America/Bogota,https://terminalhonda.com/,,,,0
-TDT-SGL,,San Gil,Santander,6.55446,-73.14883,America/Bogota,https://terminalsangil.gov.co/,,,,0
